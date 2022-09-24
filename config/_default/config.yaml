@@ -5,6 +5,7 @@
 
 title: Academic # Website name
 baseURL: 'https://UkharovaS.github.io' # Website URL
+baseURL: 'https://UkharovaS.github.io/<blog>'
 
 ############################
 ## LANGUAGE
